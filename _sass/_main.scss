@@ -1,0 +1,17 @@
+html, body {
+  font-family: avenir;
+}
+
+.avatar {
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+}
+
+a:link,
+a:visited {
+  color: #000;
+  text-decoration: none;
+}
+a { font-weight: bold; }
+a:hover { color: #aaa; }
