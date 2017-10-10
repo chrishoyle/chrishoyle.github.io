@@ -1,19 +1,12 @@
-<!-- <div class="center mb3 keyline-bottom">
-  {% assign sorted_pages = site.pages | sort:"order" %}
-  {% for p in sorted_pages %}
-    {% if p.title %}
-    <a href="{{ p.url }}" class={% if p.url == page.url %}"ml2 mr2 gray"{% else %}"ml2 mr2"{% endif %}>{{ p.title }}</a>
-    {% endif %}
-  {% endfor %}
-  <a href="/resume.pdf" class="ml2 mr2">Resume</a>
-</div> -->
+
 <nav>
     <ul id="nav">
     	{% assign sorted_pages = site.pages | sort:"order" %}
 		  {% for p in sorted_pages %}
 		    {% if p.title %}
-		    <a href="{{ p.url }}" >{{ p.title }}</a>
+		    <li><a href="{{ p.url }}" >{{ p.title }}</a></li>
 		    {% endif %}
 		  {% endfor %}
+		  <li><a href="/resume.pdf">resume</a></li>
     </ul>
 </nav>

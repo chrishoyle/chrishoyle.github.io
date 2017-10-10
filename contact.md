@@ -1,20 +1,20 @@
+---
+layout: page
+title: contact
+permalink: /contact/
+order: 4
+---
+
 <div id="body">
   <div id="main">
     
-<div id="pull-right" >
+<div id="pull-right" style="padding-right: 50px">
       <img src="/images/chris.png" width="280">
 </div>
 <div id="pull-left">
-  <h1>Hi, I'm Chris Hoyle!</h1>
-
+  <h1 style="text-align: center;">Contact Info</h1>
   <ul id="about">
-
-    <li>CS + Business Analytics student @ <a id="wm" href="http://www.wm.edu/">W&M</a></li>
-    <li>Operations  @ <a id="tv" href="http://millerec.com/miller-fellows/">Miller Fellowship</a></li>
-    <li>Summer Intern @ <a id="jpl" href="https://www.jpl.nasa.gov/">NASA JPL</a></li>
-    <li>Former Intern @ <a id="nrv" href="http://nrv.vc/">NRV VC</a></li>
-    <li>NCAA XC/Track <a id="ncaa" href="http://www.tribeathletics.com/roster.aspx?rp_id=6696&path=mcross">runner</a></li>
-
+    <li>Email <a>christohoyle [at] gmail.com</a></li>
 
   </ul>
 
