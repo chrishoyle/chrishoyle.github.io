@@ -18,12 +18,6 @@ order: 4
 
   </ul>
 
-  <div id="links">
-    <a id="facebook" href="https://www.facebook.com/chris.hoyle.52"><i class="fa fa-facebook-square fa-2x"></i></a>
-    <a id="linkedin" href="https://www.linkedin.com/in/christopher-hoyle/"><i class="fa fa-linkedin-square fa-2x"></i></a>
-    <a id="angellist" href="https://angel.co/chris-hoyle-3"><i class="fa fa-angellist fa-2x"></i></a>
-    <a id="bitcoin" href="bit.html"><i class="fa fa-bitcoin fa-2x"></i></a>
-  </div>
 </div>
 </div>
 </div>
