@@ -1,0 +1,19 @@
+
+[
+  {
+      "title": "🙌 evely",
+      "description": "The best way to find events for the weekend",
+      "link": "http://www.evely.co/",
+  },
+  {
+      "title": "📉 data-ly",
+      "description": "Custom interactive data visualizations",
+      "link": "http://data-ly.com/",
+  },
+  {
+      "title": "📹 sldrones",
+      "description": "Aerial phtography on demand",
+      "link": "http://sldrones.co/",
+  }
+
+]
