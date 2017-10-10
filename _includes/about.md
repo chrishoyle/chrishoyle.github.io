@@ -2,7 +2,7 @@
   <div id="main">
     
 <div id="pull-right" >
-      <img src="/images/chris.png" width="280">
+      <img src="/images/chris.png" onmouseover="this.src='/images/chris2.png';" onmouseout="this.src='/images/chris.png';" width="280">
 </div>
 <div id="pull-left">
   <h1>Hi, I'm Chris Hoyle!</h1>
