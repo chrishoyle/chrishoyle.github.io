@@ -2,8 +2,8 @@
 name: Chris Hoyle
 email: christohoyle@gmail.com
 description: Chris Hoyle's blog
-baseurl: "" \
-url: "http://choyle.me" \
+baseurl: "" 
+url: "http://choyle.me" 
 
 github_username:  chrishoyle
 linkedin_username: christopher-hoyle
