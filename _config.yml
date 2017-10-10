@@ -1,21 +1,15 @@
-#
-# This file contains configuration flags to customize your site
-#
 
-# Name of your site (displayed in the header)
 name: Chris Hoyle
 email: christohoyle@gmail.com
 description: Chris Hoyle's blog
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://choyle.me" # the base hostname & protocol for your site
+baseurl: "" \
+url: "http://choyle.me" \
 
 github_username:  chrishoyle
 linkedin_username: christopher-hoyle
 
 
 url: http://choyle.me
-
-
 
 permalink: /:title/
 
@@ -30,7 +24,6 @@ kramdown:
 sass:
   style: :expanded 
 
-# Use the following plug-ins
 plugins:
   - jekyll-sitemap 
   - jekyll-feed 
