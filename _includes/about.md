@@ -1,5 +1,8 @@
+<div id="body">
+  <div id="main">
+    
 <div id="pull-right" id="prof">
-            <img src="assets/imgs/chris.png" width="280">
+            <img src="images/chris.png" width="280">
 </div>
 <div id="pull-left">
   <h1>Hi, I'm Chris Hoyle!</h1>
@@ -21,4 +24,6 @@
     <a id="angellist" href="https://angel.co/chris-hoyle-3"><i class="fa fa-angellist fa-2x"></i></a>
     <a id="bitcoin" href="bit.html"><i class="fa fa-bitcoin fa-2x"></i></a>
   </div>
+</div>
+</div>
 </div>

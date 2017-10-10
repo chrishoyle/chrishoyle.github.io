@@ -1,4 +1,4 @@
-<div class="center mb3 keyline-bottom">
+<!-- <div class="center mb3 keyline-bottom">
   {% assign sorted_pages = site.pages | sort:"order" %}
   {% for p in sorted_pages %}
     {% if p.title %}
@@ -6,4 +6,14 @@
     {% endif %}
   {% endfor %}
   <a href="/resume.pdf" class="ml2 mr2">Resume</a>
-</div>
+</div> -->
+<nav>
+    <ul id="nav">
+    	{% assign sorted_pages = site.pages | sort:"order" %}
+		  {% for p in sorted_pages %}
+		    {% if p.title %}
+		    <a href="{{ p.url }}" class={% if p.url == page.url %}"ml2 mr2 gray"{% else %}"ml2 mr2"{% endif %}>{{ p.title }}</a>
+		    {% endif %}
+		  {% endfor %}
+    </ul>
+</nav>
