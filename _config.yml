@@ -10,9 +10,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://choyle.me" # the base hostname & protocol for your site
 
 github_username:  chrishoyle
-linkedin_username: 
+linkedin_username: christopher-hoyle
 
-google_analytics:
 
 url: http://choyle.me
 
