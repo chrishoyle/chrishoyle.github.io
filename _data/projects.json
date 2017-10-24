@@ -1,7 +1,7 @@
 
 [ {
       "title": "🗺 alumni-map",
-      "description": "A searchable map of W&M alumni startups hosted on google sheets",
+      "description": "A searchable map of W&M alumni startups with backend on google sheets",
       "link": "http://www.choyle.me/alumni-map",
   },
   {
