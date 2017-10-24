@@ -1,5 +1,9 @@
 
-[
+[ {
+      "title": "🗺 alumni-map",
+      "description": "A searchable map of W&M alumni startups hosted on google sheets",
+      "link": "http://www.choyle.me/alumni-map",
+  },
   {
       "title": "🙌 evely",
       "description": "The best way to find events for the weekend",
