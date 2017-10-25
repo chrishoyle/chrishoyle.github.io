@@ -21,6 +21,7 @@
     <a id="facebook" href="https://www.facebook.com/chris.hoyle.52"><i class="fa fa-facebook-square fa-2x"></i></a>
     <a id="linkedin" href="https://www.linkedin.com/in/christopher-hoyle/"><i class="fa fa-linkedin-square fa-2x"></i></a>
     <a id="angellist" href="https://angel.co/chris-hoyle-3"><i class="fa fa-angellist fa-2x"></i></a>
+    <a id="github" href="https://github.com/chrishoyle"><i class="fa fa-github fa-2x"></i></a>
     <a id="bitcoin" href="https://blockchain.info/address/1GkCe7BDwE5YiP35qmUXq21pxsg9Q3UivD"><i class="fa fa-bitcoin fa-2x"></i></a>
   </div>
 
