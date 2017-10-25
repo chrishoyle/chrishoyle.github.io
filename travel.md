@@ -2,7 +2,7 @@
 layout: page
 title: travel
 permalink: /travel/
-order: 4
+order: 3
 ---
 
 <div id="body">
