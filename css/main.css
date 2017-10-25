@@ -69,6 +69,29 @@ nav li { display: inline-block;
 	margin-top: 20px;
 	height: 400px; 
 }
+#travel{
+	display: none;
+	width:400px;
+	height:300px;
+	overflow:hidden;
+}
+.text {
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 150px;
+    width: 100%;
+    color: white;
+}
+.photo {
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
 
 .project{
 	padding: 20px;
