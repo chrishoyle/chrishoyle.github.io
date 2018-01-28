@@ -8,16 +8,16 @@ order: 3
 <div id="body">
   <div id="main">
   	
-  	  {% for trip in site.data.travel %}
+  	
 	  	  <div class="travel">
-			  {% for photo in trip.photos %}
+			  {% for trip in site.data.travel %}
 
-			      <img src="{{ photo }}" width="400px" height="300px" >
+			      <img src="{{ trip.photo }}" width="400px" height="300px" >
 			      <h1 class="text">{{ trip.title }}</h1>
 
 			  {% endfor %}
 		  </div>
-	  {% endfor %}
+	
 
   </div>
 </div>

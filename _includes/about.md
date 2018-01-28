@@ -1,17 +1,17 @@
 <div id="body">
   <div id="main">
     
-<div id="pull-right" >
+<div id="pull-right">
       <img src="/images/chris.png" onmouseover="this.src='/images/chris2.png';" onmouseout="this.src='/images/chris.png';" width="280">
 </div>
-<div id="pull-left">
+<div id="pull-left" style="max-width: 580px;">
   <h1>Hi, I'm Chris Hoyle!</h1>
-
+  <p>I'm currently helping students build at the <a href= "http://millerec.com/miller-fellows">Alan B. Miller Center</a>, co-founding <a href="https://thebitdaily.com">TheBit</a>, and working with <a href="https://www.wired.com/2016/06/unknown-lab-millennials-fast-tracking-nasas-missions/">NASA Lab 77</a>. </p>
   <ul id="about">
 
     <li>CS + Business Analytics student @ <a id="wm" href="http://www.wm.edu/">W&M</a></li>
     <li>Operations  @ <a id="tv" href="http://millerec.com/miller-fellows/">Miller Fellowship</a></li>
-    <li>Summer Intern @ <a id="jpl" href="https://www.jpl.nasa.gov/">NASA JPL</a></li>
+    <li>Former Intern @ <a id="jpl" href="https://www.jpl.nasa.gov/">NASA JPL</a></li>
     <li>Former Intern @ <a id="nrv" href="http://nrv.vc/">NRV VC</a></li>
     <li>NCAA XC/Track <a id="ncaa" href="http://www.tribeathletics.com/roster.aspx?rp_id=6696&path=mcross">runner</a></li>
 

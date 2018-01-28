@@ -1,12 +1,18 @@
 
-[ {
+[ 
+  {
+      "title": "₿ TheBit",
+      "description": "A simplified cryptocurrency news platform",
+      "link": "https://thebitdail.com",
+  },
+  {
       "title": "🗺 alumni-map",
-      "description": "A searchable map of W&M alumni startups with backend on google sheets",
+      "description": "A map of W&M alumni startups",
       "link": "http://www.choyle.me/alumni-map",
   },
   {
       "title": "🙌 evely",
-      "description": "The best way to find events for the weekend",
+      "description": "A social event attending app",
       "link": "http://www.evely.co/",
   },
   {
