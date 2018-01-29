@@ -6,7 +6,7 @@
 </div>
 <div id="pull-left" style="max-width: 580px;">
   <h1>Hi, I'm Chris Hoyle!</h1>
-  <p>I'm currently helping students build at the <a href= "http://millerec.com/miller-fellows">Alan B. Miller Center</a>, co-founding <a href="https://thebitdaily.com">TheBit</a>, and working with <a href="https://www.wired.com/2016/06/unknown-lab-millennials-fast-tracking-nasas-missions/">NASA Lab 77</a>. </p>
+  <p>I'm currently helping students build at the <a href= "http://millerec.com/miller-fellows">Alan B. Miller Center</a>, co-founding <a href="https://thebitdaily.com">TheBit</a> and <a href="http://thoughtpath.co/">ThoughtPath</a>, and working with <a href="https://www.wired.com/2016/06/unknown-lab-millennials-fast-tracking-nasas-missions/">NASA Lab 77</a>. </p>
   <ul id="about">
 
     <li>CS + Business Analytics student @ <a id="wm" href="http://www.wm.edu/">W&M</a></li>
