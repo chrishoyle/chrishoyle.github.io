@@ -8,11 +8,11 @@ order: 3
 <div id="body">
   <div id="main">
   	
-	  	  <div class="travel" style="height: 290px;">
+	  	  <div class="travel" style="height: 330px;">
 
 			  {% for trip in site.data.travel %}
 
-			      <img src="{{ trip.photo }}" width="400px" height="300px" style="border-radius: 4px;" >
+			      <img src="{{ trip.photo }}" width="400px" height="300px" style="border-radius: 4px;margin-top: 30px;" >
 			     
 
 			  {% endfor %}
