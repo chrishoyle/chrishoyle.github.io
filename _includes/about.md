@@ -8,6 +8,7 @@
     <div id="pull-left" style="max-width: 580px;">
       <h1>Hi, I'm Chris Hoyle!</h1>
       <p>I'm currently helping students build at the <a href= "http://millerec.com/miller-fellows">Alan B. Miller Center</a>, co-founding <a href="https://thebitdaily.com">TheBit</a>, building <a href="http://thoughtpath.co/">ThoughtPath</a>, and working with <a href="https://www.wired.com/2016/06/unknown-lab-millennials-fast-tracking-nasas-missions/">NASA Lab 77</a>. </p>
+      <p>Check out some art I created with my latest <a href="http://choyle.me/run-vis">runs!</a></p>
       <ul id="about">
 
         <li>CS + Business Analytics student @ <a id="wm" href="http://www.wm.edu/">W&M</a></li>
@@ -24,8 +25,9 @@
         <a id="angellist" href="https://angel.co/chris-hoyle-3"><i class="fa fa-angellist fa-2x"></i></a>
         <a id="github" href="https://github.com/chrishoyle"><i class="fa fa-github fa-2x"></i></a>
         <a id="bitcoin" href="https://blockchain.info/address/1GkCe7BDwE5YiP35qmUXq21pxsg9Q3UivD"><i class="fa fa-bitcoin fa-2x"></i></a>
+
       </div>
     </div>
   </div>
 </div>
-<footer style="text-align: center;font-size: 14px">check out art created with my latest <a href="http://choyle.me/run-vis">runs</a></footer>
+<footer style="text-align: center;font-size: 14px"></footer>
