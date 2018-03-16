@@ -3,12 +3,12 @@
 body { 
 	font-family: "Open Sans", tahoma, sans-serif; 
 	background: #fff; 
-	font-size: 20px; 
+	font-size: 17px; 
 	margin: 0;
 }
 
 h1 { 
-	font-size: 40px; 
+	font-size: 35px; 
 	margin:0px;
 }
 
@@ -37,7 +37,6 @@ ul, li {
 	position: relative;
 	text-align: left; 
 	display: inline-block; 
-	/*height: auto; */
 	vertical-align: middle; 
 }
 
