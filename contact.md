@@ -8,7 +8,7 @@ order: 4
 <div id="body">
   <div id="main">
     
-<div id="pull-right" style="padding-right: 50px;margin-left: 60px;">
+<div id="pull-right" style="padding-right: 50px;margin-left: 100px;">
       <img src="/images/chris.png" width="280">
 </div>
 <div id="pull-left">
@@ -17,7 +17,7 @@ order: 4
     <li>Email <a>christohoyle [at] gmail.com</a></li>
 
   </ul>
-  <p style="font-size: 10px; max-width: 200px;">
+  <p style="font-size: 10px;max-width: 100px;">
   	-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: BCPG C# v1.6.1.0
 
