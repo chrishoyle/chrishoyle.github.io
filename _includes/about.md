@@ -28,4 +28,4 @@
     </div>
   </div>
 </div>
-<footer style="text-align: center;font-size: 13px">check out my latest <a href="http://choyle.me/run-vis">runs</a></footer>
+<footer style="text-align: center;font-size: 14px">check out art created with my latest <a href="http://choyle.me/run-vis">runs</a></footer>
